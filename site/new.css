@@ -1,0 +1,31 @@
+h1{
+	color:blue;
+	text-align:center;
+	font-size:30px;
+}
+    ul{
+ 	color:green;
+ 	text-align:right;
+ 	width:30;
+ 	
+ }
+    .mybad{
+ 	color:red;
+ 	}
+ 	#now{
+ 		color:violet;
+
+ 	}
+ 	section li{
+ 		list-style: none;
+ 	}
+ 	a:link, a:visited{
+      text-decoration: none;
+ 	}
+ 	a:hover, a:active{
+ 		background-color:black;
+ 		cursor:pointer;
+ 	}
+ 	section li:nth-child(2){
+ 		background-color:black;
+ 	}
